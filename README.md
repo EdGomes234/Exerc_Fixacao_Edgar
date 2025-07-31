@@ -10,6 +10,7 @@
 
 ```bash
 https://github.com/seu_nome_de_usuario/Exerc_Fixacao_Edgar.git
+cd Exerc_Fixacao_Edgar
 cd cotacao_api
 ```
 ## 2. Crie e ative um ambiente virtual
